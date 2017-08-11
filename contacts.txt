@@ -1,0 +1,7 @@
+# Tell me about yourself
+# Copy the details, update it and append at the bottom of the file
+
+Full name: Alex
+skype id: alex.yap.openet
+email: alex.yap@openet.com
+
